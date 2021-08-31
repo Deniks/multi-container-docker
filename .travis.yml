@@ -17,3 +17,4 @@ after_success:
   - docker push denissrezan/multi-nginx
   - docker push denissrezan/multi-server
   - docker push denissrezan/multi-worker
+language: generic
